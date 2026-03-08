@@ -34,4 +34,6 @@
 
 ## 📈 Activity Graph
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZambakExe&theme=github-compact)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZambakExe&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
+
+
