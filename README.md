@@ -37,4 +37,8 @@
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZambakExe&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
 
 
-https://github.com/ZambakExe/ZambakExe/blob/output/github-contribution-grid-snake.gif
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+</picture>
