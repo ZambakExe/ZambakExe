@@ -33,3 +33,7 @@
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/ZambakExe/ZambakExe/blob/output/github-contribution-grid-snake.svg)
+
+## 📈 Activity Graph
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZambakExe&theme=tokyo-night)
