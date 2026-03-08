@@ -1,4 +1,4 @@
-# Hi 👋, I'm ZambakExe
+<h3 align="center"># Hi 👋, I'm ZambakExe</h3>
 
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 
