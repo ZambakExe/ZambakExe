@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zambakexe&theme=dark" alt="zambakexe" /></p>
+![GitHub Streak](https://streak-stats.demolab.com?user=ZambakExe&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)
 
 
 
